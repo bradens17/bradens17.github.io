@@ -2,8 +2,19 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-2.jpg'
 ---
+
+I am currently one of thirty students specializing in Mechatronics under the Mechanical Engineering
+program at UBC. I have 12 months of co-op work experience from as a Product Engineer at IFD Corporation. Additionally, I am a member of the OpenRobotics Design Team at UBC.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/ubc.jpg" loading="lazy">
+    <img src="/images/gallery-2.jpg" loading="lazy">
+    <img src="/images/openrobotics.jpg" loading="lazy">
+  </div>
+  <em>Professional Experience</em>
+</div>
 
 In my free time I love to go stay active by hiking or play sports. Growing up I played every sport I could. I even managed to repersent team Canada playing baseball at the Senior League World Series.
 
