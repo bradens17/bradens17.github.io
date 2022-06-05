@@ -9,8 +9,8 @@ Designed a sleeve for pressure relief valve (PRV) to limit flow rate when ventin
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/vacuum.jpg" loading="lazy" alt="Project">
-    <img src="/images/pressure.jpg" loading="lazy" alt="Project">
+    <img src="/images/vacuum.JPG" loading="lazy" alt="Project">
+    <img src="/images/pressure.JPG" loading="lazy" alt="Project">
   </div>
   <em> <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
