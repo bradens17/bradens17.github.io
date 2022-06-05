@@ -1,0 +1,27 @@
+---
+title: ROVER
+date: 2022-01-07 08:01:35 +0300
+subtitle: Mechanical Design, Aruino
+image: '/images/project-4.jpg'
+---
+
+Pictured top left is a project entered in a competition at the University of British Columbia. The goal was to manufacture an operational electrically driven ROV, and to maneuver through different obstacles and terrain. Sustainability, cost, weight and volume were also design considerations. 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/roverbraking.jpg" loading="lazy" alt="Project">
+    <img src="/images/roversteering.jpg" loading="lazy" alt="Project">
+    <img src="/images/rovertransmission.jpg" loading="lazy" alt="Project">
+  </div>
+  <em> <a href="https://unsplash.com/" target="_blank"></a></em>
+</div>
+
+The drive train used two motors held with a 3D printed mount and connected into a gearbox with a 16:1 ratio which I determined from a MATLAB simulation and executing experiments with prototypes. The ROVER used an ackermann steering system using a servo motor programmed in arduino. 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/chassis.jpg" loading="lazy" alt="Project">
+  </div>
+</div>
+
+I worked on developing the shape of the chassis using a topology optimization simulation in SolidWorks. The material—balsa wood was also determined by looking through a material index software.

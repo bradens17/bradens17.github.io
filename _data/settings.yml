@@ -1,0 +1,98 @@
+#-------------------------------
+# Site Settings
+title: Braden Scott
+logo: #'/images/logo.png'
+description: Project portfolio
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
+    - title: 'Resume'
+      url: "https://drive.google.com/file/d/1JznR-0DNKTm5sYjZq8NcG9sZxpJscTit/view?usp=sharing"
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Braden Scott
+  author__bio: Please reach out if you have any questions
+  author__avatar: '/images/01-1.jpg'
+
+social:
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/bradenscott17/"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/bradenscott17/"}
+- {icon: "ion-logo-github", link: "https://github.com"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: I'm Braden. Mechatronics Student at the Univerisity of British Columbia.
+  hero__description: I am in my 4th year looking for exciting co-op/internship opportunities. I have one year of experience as a Product Engineer and my projects are highligted below. If you are looking for a innovative Engineer with strong problem solving and critical-thinking skills, please do not hesitate to reach out.
+  hero__image: '/images/01.jpg'
+
+
+#-------------------------------
+# Newsletter
+#mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+#mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+#mailchimp__input__text: Your email address...
+#mailchimp__button__text: Get updates
+
+
+#-------------------------------
+# Projects Settings
+projects__settings:
+  projects__title: Projects
+  projects__description: Below are my projects which demonstrate my interests and snippets of my capabilities to be an asset to your team.
+
+
+
+#-------------------------------
+# Footer Navigation Settings
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - url: '/about/'
+      title: 'About'
+    - url: '/contact/'
+      title: 'Contact'
+    - title: 'Resume'
+      url: "https://drive.google.com/file/d/1JznR-0DNKTm5sYjZq8NcG9sZxpJscTit/view?usp=sharing"
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: bscott17@student.ubc.ca # Add your form_id
+  description:  # Add a description of your form
+
+# NOTE
+# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
