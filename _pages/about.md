@@ -33,7 +33,7 @@ I also love to travel. I enjoy learning about different cultures and meeting peo
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/205.jpg" loading="lazy">
-    <img src="/images/200.jpg" loading="lazy">
+    <img src="/images/200.JPG" loading="lazy">
     <img src="/images/203.jpg" loading="lazy">
   </div>
   <em>Travel</em>
