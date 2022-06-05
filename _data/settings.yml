@@ -19,7 +19,7 @@ menu__settings:
     - title: 'Contact'
       url: '/contact/'
     - title: 'Resume'
-      url: "https://drive.google.com/file/d/1JznR-0DNKTm5sYjZq8NcG9sZxpJscTit/view?usp=sharing"
+      url: "https://drive.google.com/file/d/12IfPfQVyenrv9-WihfkXl3IC6m6nlvdJ/view?usp=sharing"
 
 
 #-------------------------------
@@ -75,7 +75,7 @@ footer_menu__settings:
     - url: '/contact/'
       title: 'Contact'
     - title: 'Resume'
-      url: "https://drive.google.com/file/d/1JznR-0DNKTm5sYjZq8NcG9sZxpJscTit/view?usp=sharing"
+      url: "https://drive.google.com/file/d/12IfPfQVyenrv9-WihfkXl3IC6m6nlvdJ/view?usp=sharing"
 
 
 #-------------------------------
