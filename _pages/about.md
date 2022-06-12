@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 I am currently one of thirty students specializing in Mechatronics under the Mechanical Engineering
-program at UBC. I have 12 months of co-op work experience from as a Product Engineer at IFD Corporation. Additionally, I am a member of the OpenRobotics Design Team at UBC.
+program at UBC. I have 12 months of co-op work experience from as a Product Engineer at IFD Corporation.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/ubc.jpg" loading="lazy">
     <img src="/images/gallery-2.jpg" loading="lazy">
-    <img src="/images/openrobotics.jpg" loading="lazy">
+    <img src="/images/openroboticsDELETE.jpg" loading="lazy">
   </div>
   <em>Professional Experience</em>
 </div>

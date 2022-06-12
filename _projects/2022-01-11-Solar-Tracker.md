@@ -5,4 +5,4 @@ subtitle: Personal Project
 image: '/images/solartracker.jpg'
 ---
 
-More coming soon
+Full build coming soon
