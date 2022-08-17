@@ -30,12 +30,6 @@ author:
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/bradenscott17/"}
 - {icon: "fa-envelope-square", link: "mailto:bscott17@student.ubc.ca"}
-- {email:
-  id: 'your.name@yoursite.com'
-  href: 'mailto:'
-  title: 'Email'
-  fa-icon: 'fa-envelope-square'}
-
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
