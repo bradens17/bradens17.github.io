@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am currently one of thirty students specializing in Mechatronics under the Mechanical Engineering
-program at UBC. I have 12 months of co-op work experience from as a Product Engineer at IFD Corporation. I am also a team member of the Open Robotics design team at UBC to design and build the 6 DOF Arm for a domestic use robot.
+program at UBC. I have 12 months of co-op work experience from as a Product Engineer at IFD Corporation. I am also a team member of the Open Robotics design team to design a general-use domestic robot, I am on the sub-team developing a 6-dof arm.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -16,7 +16,7 @@ program at UBC. I have 12 months of co-op work experience from as a Product Engi
   <em>Professional Experience</em>
 </div>
 
-In my free time I love to go stay active by hiking or play sports. Growing up I played every sport I could. I even managed to repersent team Canada playing baseball at the Senior League World Series.
+In my free time I love to go stay active by hiking or play sports. Growing up I played every sport I could. I even managed to repersent team Canada twice playing baseball at the Intermidiate & Senior League World Series.
 
 
 <div class="gallery-box">
@@ -28,7 +28,7 @@ In my free time I love to go stay active by hiking or play sports. Growing up I 
   <em>Sports</em>
 </div>
 
-I also love to travel. I enjoy learning about different cultures and meeting people from all around the world. I have been to Australlia, New Zealand, Greece, Mexico, Cuba and I am currently planning a trip to Korea. I feel that travelling not only expands my knowledge but helps me learn more about myself.
+I also love to travel. I enjoy learning about different cultures and meeting people from all around the world. I have been to Korea, Australlia, New Zealand, Greece, Mexico and Cuba. I feel that travelling not only expands my knowledge but helps me learn more about myself.
 
 <div class="gallery-box">
   <div class="gallery">

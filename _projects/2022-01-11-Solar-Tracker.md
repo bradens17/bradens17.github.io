@@ -5,4 +5,4 @@ subtitle: Personal Project
 image: '/images/solartracker.jpg'
 ---
 
-Full build coming soon
+I chose to do this project because of my interest in automation and renewable energy. I am using arduino to control the servo motors and read photo-resitor sensors which measure the difference in light in 4 quadrants. The sensors are paired, if the left and right sensors read a difference in light intensity the servo motor 1 rotates untill the light is equal. The same for the front and back sensors, if a difference is measured then servo motor 2 rotates to correct it. Therefore, the solar panel is always the optimal angle for efficiency. 
