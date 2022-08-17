@@ -16,8 +16,6 @@ menu__settings:
       url: '/projects/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
     - title: 'Resume'
       url: "https://drive.google.com/file/d/12IfPfQVyenrv9-WihfkXl3IC6m6nlvdJ/view?usp=sharing"
 
@@ -33,6 +31,7 @@ social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/bradenscott17/"}
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/bradenscott17/"}
 - {icon: "ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-email", link: "https://github.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -42,7 +41,7 @@ social:
 # Hero Settings
 hero:
   hero__title: I'm Braden. Mechatronics Student at the Univerisity of British Columbia.
-  hero__description: I am in my 4th year looking for exciting co-op/internship opportunities. I have one year of experience as a Product Engineer and my projects are highligted below. If you are looking for a innovative Engineer with strong problem solving and critical-thinking skills, please do not hesitate to reach out.
+  hero__description: I am in my 4th year looking for exciting co-op/internship opportunities. I have over one year of professional experience as a Product Engineer and my projects are highligted below. If you are looking for a innovative Engineer with strong problem solving and critical-thinking skills, please do not hesitate to reach out.
   hero__image: '/images/01.jpg'
 
 
@@ -72,8 +71,6 @@ footer_menu__settings:
       url: '/projects/'
     - url: '/about/'
       title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
     - title: 'Resume'
       url: "https://drive.google.com/file/d/12IfPfQVyenrv9-WihfkXl3IC6m6nlvdJ/view?usp=sharing"
 
