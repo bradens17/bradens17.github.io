@@ -29,7 +29,7 @@ author:
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/bradenscott17/"}
-- {icon: "ion-logo-mail-outline", link: "mailto:bscott17@student.ubc.ca"}
+- {icon: "ion-mail", link: "mailto:bscott17@student.ubc.ca"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
