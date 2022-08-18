@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently one of thirty students specializing in Mechatronics under the Mechanical Engineering
-program at UBC. I have 12 months of co-op work experience from as a Product Engineer at IFD Corporation. I am also a team member of the Open Robotics design team to design a general-use domestic robot, I am on the sub-team developing a 6-dof arm.
+I am currently one of thirty students specializing in Mechatronics under the Mechanical Engineering program at UBC. I have over one year of professional experience from as a Product Engineer at IFD Technologies. I am also a member of the UBC Open Robotics design team building an autonomous domestic service robot, I am on the sub-team developing the 6-dof arm.
 
 <div class="gallery-box">
   <div class="gallery">
