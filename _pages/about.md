@@ -15,7 +15,7 @@ I am currently one of thirty students specializing in Mechatronics under the Mec
   <em>Professional Experience</em>
 </div>
 
-In my free time I love to go stay active by hiking or play sports. Growing up I played every sport I could. I even managed to repersent team Canada twice playing baseball at the Intermidiate & Senior League World Series. Today, golf is one my favourite pastimes. 
+In my free time I love to stay active by hiking or playing sports. Growing up I played every sport I could. I even managed to represent team Canada twice playing baseball at the Intermidiate & Senior League World Series. Today, golf is one my favourite pastimes. 
 
 
 <div class="gallery-box">
@@ -27,7 +27,7 @@ In my free time I love to go stay active by hiking or play sports. Growing up I 
   <em>Sports</em>
 </div>
 
-I also love to travel. I enjoy learning about different cultures and meeting people from all around the world. I have been to Korea, Australlia, New Zealand, Greece, Mexico and Cuba. I feel that travelling not only expands my knowledge but helps me learn more about myself.
+I also love to travel. I enjoy learning about different cultures and meeting people from all around the world. I have been to Korea, Australlia, New Zealand, Greece, Mexico and Cuba. 
 
 <div class="gallery-box">
   <div class="gallery">
