@@ -16,7 +16,7 @@ This project stemmed from a root cause analysis in the field on sensors at our c
 </div>
 
 # The solution
-The picture on the left shows the IFD in a vacuum state. In this state the sleeve that I designed is pushed up against the o-ring creating a seal. On the right, shows the IFD in a pressure state and the sleeve is pushed out and there is no seal therefore air can flow. After lots of prototyping and validation testing the sleeve design was implemented because of its simplicity to manufacture and swap out existing sensors that were already sent out. This design change put my name on an official patent for first time.<link>"https://patents.google.com/patent/WO2022178629A1"<link> https://patents.google.com/patent/WO2022178629A1
+The picture on the left shows the IFD in a vacuum state. In this state the sleeve that I designed is pushed up against the o-ring creating a seal. On the right, shows the IFD in a pressure state and the sleeve is pushed out and there is no seal therefore air can flow. After lots of prototyping and validation testing the sleeve design was implemented because of its simplicity to manufacture and swap out existing sensors that were already sent out. This design change put my name on an official patent for first time. https://patents.google.com/patent/WO2022178629A1
 
 # What I learned
  I learned a lot about design for manufacturing and working on tight deadlines. I worked on this from intial RCA to running testing to detailed design to talking with suppliers and mold makers. This was a very high stress project that I feel I worked through well and had a lot of success with. 
