@@ -15,7 +15,7 @@ This project stemmed from a root cause analysis in the field on sensors at our c
   <em> <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
 
-# The solution
+# The Solution
 The picture on the left shows the IFD in a vacuum state. In this state the sleeve that I designed is pushed up against the o-ring creating a seal. On the right, shows the IFD in a pressure state and the sleeve is pushed out and there is no seal therefore air can flow. After lots of prototyping and validation testing the sleeve design was implemented because of its simplicity to manufacture and swap out existing sensors that were already sent out. This design change put my name on an official patent for first time. https://patents.google.com/patent/WO2022178629A1
 
 # What I learned
