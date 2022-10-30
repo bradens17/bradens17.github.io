@@ -17,4 +17,4 @@ Developed a testing fixture to leak test all IFD sensors from production in pres
 
 # What I learned
 Gained experience creating detailed CAD models and mechanical drawings in SolidWorks for machining. Resulted in improving efficiency from previous tester by 400% with a 4-chamber concurrent testing design and removed potential for false results by eliminating technique dependencies. 
-Considered material selection consideration with aluminum, steel, plastic and rubber/sealing parts. Sourcing components like pneumatic components, bolts, dowel pins, studs. 
+Considered material selection consideration with aluminum, steel, plastic and rubber/sealing parts. Sourcing components like pneumatics, bolts, dowel pins, studs. 
