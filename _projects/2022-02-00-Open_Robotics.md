@@ -15,8 +15,4 @@ Designing a 6 degree of freedom robotic arm to be able to perform day-to-day tas
 </div>
 
 # What I learned
-Conducted research on existing robot arm and joint combinations
-Performed preliminary motor specification and link length calculations
-Decided to employ a spherical wrist to improve maneuverability of end-effector
-Leading the design of the static arm of the robot to provide a rigid support for the payload while dynamic arm is not in use, with emphasis on symmetry, simplicity and aesthetics 
-Designing the arm enclosure to house all electronic components without impeding arm movement according to the competition requirements  
+Leading the design of the static arm of the robot to provide a rigid support for the payload while dynamic arm is not in use, with emphasis on symmetry, simplicity and aesthetics. Designing the arm enclosure to house all electronic components without impeding arm movement according to the competition requirements. Using OnShape for CAD modelling. I have learned a lot working in a interdisciplinary team to design an electromechanical device. Our robot is still in the design stage transitioning to build stage so there is still many challenges ahead.
