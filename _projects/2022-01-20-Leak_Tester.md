@@ -9,7 +9,8 @@ Developed a testing fixture to leak test all IFD sensors from production in pres
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/armprototype.jpg" loading="lazy" alt="Project">
+    <img src="/images/insert.jpg" loading="lazy" alt="Project">
+    <img src="/images/prototype.jpg" loading="lazy" alt="Project">
   </div>
   <em>  <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
