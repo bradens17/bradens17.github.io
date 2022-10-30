@@ -19,7 +19,7 @@ Leading the design of the static arm of the robot to provide a rigid support for
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/robotarm.png" loading="lazy" alt="Project">
-    <img src="/images/staticarm.jpg" loading="lazy" alt="Project">
+    <img src="/images/staticarm.JPG" loading="lazy" alt="Project">
   </div>
   <em>  <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
