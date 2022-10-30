@@ -2,7 +2,7 @@
 title: Open Robotics
 date: 2022-02-10 08:01:35 +0300
 subtitle: Design Team
-image: '/images/robotarm.jpg'
+image: '/images/robotarm.png'
 ---
 # The Challenge
 Designing a 6 degree of freedom robotic arm to be able to perform day-to-day tasks such as opening a door and picking up clothes
