@@ -14,4 +14,4 @@ I chose to do this project because of my interest in automation and renewable en
   <em> <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
 
-Using a lazy susan (slew bearing) to reduce axial load on motor2 that turn the table (roll axis) 
+Using a lazy susan (slew bearing) to reduce axial load on motor2 that turns the table (roll axis) 
