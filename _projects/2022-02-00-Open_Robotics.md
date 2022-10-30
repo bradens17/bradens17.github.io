@@ -1,6 +1,6 @@
 ---
 title: Open Robotics
-date: 2022-01-08 08:01:35 +0300
+date: 2022-02-10 08:01:35 +0300
 subtitle: Design Team
 image: '/images/armprototype.jpg'
 ---
