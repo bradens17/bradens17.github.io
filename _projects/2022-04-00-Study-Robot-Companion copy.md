@@ -6,7 +6,10 @@ image: '/images/drone.jpg'
 ---
 
 # The Challenge
-I chose to do a project to refine my CAD skills with a more complicated design. In addition, I am fascinated by drones and I think they look super cool. 
+Many students including me have difficulties staying focused while studying. People often have study buddies to help them stay on task. In this project a design a robot study companion that helps you stay on task, and specifically staying off your phone. 
+
+# Explainer Video
+<p><iframe src="https://player.vimeo.com/video/147264547?title=0&byline=0" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 # What I learned
 Modelled drone design in SolidWorks. It helped me get more comfortable with surfacing modelling. 
