@@ -1,8 +1,8 @@
 ---
-title: Drone CAD
+title: Tesla- Laser Welding Fixture
 date: 2022-01-01 08:01:35 +0300
-subtitle: Solidworks CAD Modelling
-image: '/images/drone.jpg'
+subtitle: Mechanical Design, Manufacturing, GD&T
+image: '/images/fullfixurecad.png'
 ---
 
 # The Challenge
