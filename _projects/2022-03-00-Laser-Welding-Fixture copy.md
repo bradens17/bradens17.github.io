@@ -18,9 +18,11 @@ During this time our team's technicians were extremely busy therefore I was give
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/cnc.jpeg" loading="lazy" alt="Project">
+    <img src="/images/clamps.jpeg" loading="lazy" alt="Project">
+    <img src="/images/finishedfixture.jpeg" loading="lazy" alt="Project">
   </div>
+  <em> <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/ontruck.jpg" loading="lazy" alt="Project">
