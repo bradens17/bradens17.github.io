@@ -28,9 +28,11 @@ During this time our team's technicians were extremely busy therefore I was only
 After the build was complete, I worked with dimensional engineers to certify the fixture. We used a CMM to measure all 55 datums ensuring a tolerance of 0.15mm. This process involved lots of shimming and tweaking of the fixture. I learned that its very important to keep this in mind throughout the design as it is extremely difficult to meet this tolerances and anyway to help make the certification process simpler helps substatially. 
 
 ### Shipping
-This fixture was being sent across the world to run the test. I learned that logistics of shipping should be planned as early as possible. As on the last few days there was lots of scrambling to find crates and correct pallets as there was some inncorrect information relayed. In the end it was shipped out on my 2nd last day fortunately. 
+This fixture was being sent across the world to run the test. I learned that logistics of shipping should be planned as early as possible. As on the last few days there was lots of scrambling to meet the shipping requirements, truck scheduling, shipping method. In the end it all worked out even after a tech tipped the forklift while carrying the finished fixture.
 <div class="gallery-box">
   <div class="gallery">
+    <img src="/images/forklift.jpeg" loading="lazy" alt="Project">
     <img src="/images/ontruck.jpg" loading="lazy" alt="Project">
   </div>
+  <em> <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
