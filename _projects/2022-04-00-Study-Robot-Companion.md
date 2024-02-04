@@ -1,8 +1,8 @@
 ---
 title: Study Robot Companion
 date: 2023-04-01 08:01:35 +0300
-subtitle: Solidworks CAD Modelling
-image: '/images/drone.jpg'
+subtitle: Mechatronics, Firmware, Computer Vision
+image: '/images/normal.jpeg'
 ---
 
 # The Challenge
