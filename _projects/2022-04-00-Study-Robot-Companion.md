@@ -19,3 +19,22 @@ I also did all the firmware for this project. We used a stepper motor for yaw ro
 We also used computer vision to track the users movement and detect if they are on task. My partner led this part of the project and I assisted. 
 
 The mechanical design was done using OnShape CAD and we 3D printed 95% of the parts. We decided to make it look like croc as it was cute and we wanted an animal with a big mouth that could "eat a phone". This required surface modelling to make the face look like a croc.
+
+We made a huge mistake when desigining this... we had the idea of making this into a product and had product design in our heads. We only a 2-3 weeks to design and build this and we should have had the mindset of just building minimum viable product prototype just ensuring our main funcitons work. But we tried to make it as compact as possible, this led to alot of issues with wiring and on demo day we had a short that cause our board to break. (The other reason was because we didnt have any heat shrink or electrical so we may have had some open wires)
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/chassisprody.jpg" loading="lazy" alt="Project">
+    <img src="/images/bottomprody.jpg" loading="lazy" alt="Project">
+  </div>
+  <em> <a href="https://unsplash.com/" target="_blank"></a></em>
+</div>
+
+We ended up redesigning to make the bottom section much more open as shown below. This allowed for our wires not to get caught on eachother and was much easier to assemble but still met all the requirements we wanted. We used purchased electrical tape to cover any exposed wires this time.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/bottomprodyV2.jpg" loading="lazy" alt="Project">
+  </div>
+  <em> <a href="https://unsplash.com/" target="_blank"></a></em>
+</div>
