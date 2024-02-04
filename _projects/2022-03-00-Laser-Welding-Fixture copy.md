@@ -2,7 +2,7 @@
 title: Tesla- Laser Welding Fixture
 date: 2023-01-01 08:01:35 +0300
 subtitle: Mechanical Design, Manufacturing, GD&T
-image: '/images/fullfixurecad.jpg'
+image: '/images/fullfixturecad.jpg'
 ---
 
 # The Challenge
