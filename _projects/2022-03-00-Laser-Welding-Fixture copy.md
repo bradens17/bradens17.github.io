@@ -2,7 +2,7 @@
 title: Tesla- Laser Welding Fixture
 date: 2023-01-01 08:01:35 +0300
 subtitle: Mechanical Design, Manufacturing, GD&T
-image: '/images/fullfixurecad.png'
+image: '/images/fullfixurecad.jpg'
 ---
 
 # The Challenge
@@ -10,3 +10,9 @@ I chose to do a project to refine my CAD skills with a more complicated design. 
 
 # What I learned
 Modelled drone design in SolidWorks. It helped me get more comfortable with surfacing modelling. 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/ontruck.jpg" loading="lazy" alt="Project">
+  </div>
+</div>
