@@ -16,15 +16,14 @@ My most recent internship was at Cellula Robotics, Canada's leader in automated 
   <em>Cellula</em>
 </div>
 
-I have over one year of professional experience as a Product Engineer at IFD Technologies. I am also a member of the UBC Open Robotics design team building an autonomous domestic service robot, I am on the sub-team developing the 6-dof arm.
+Additionally, I worked at Tesla as a Manufacturing Engineering Intern on the pilot BIW team. This is a specialized team that works on the beta builds and early production of new vehicles and R&D of new manufacturing methods. I was lucky to be part of this fast paced team where I was able to absorb loads of knowledge. I got experience design fixtures, robot programming, CNC machining, vehicle builds and various manufacturing methods. 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/ubc.jpg" loading="lazy">
-    <img src="/images/gallery-2.jpg" loading="lazy">
-    <img src="/images/openrobotics.jpg" loading="lazy">
+    <img src="/images/tesla.jpg" loading="lazy">
+    <img src="/images/robotting.jpg" loading="lazy">
   </div>
-  <em>Professional Experience</em>
+  <em>Tesla</em>
 </div>
 
 In my free time I love to stay active by hiking or playing sports. Growing up I played every sport I could. I even managed to represent team Canada twice playing baseball at the Intermidiate & Senior League World Series. Today, golf is one my favourite pastimes. 
