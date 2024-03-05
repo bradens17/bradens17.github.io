@@ -6,14 +6,15 @@ image: '/images/fullfixturecad.jpg'
 ---
 
 # The Challenge
-In my 4 month internship at Tesla, this was my big project that took up the majority of my time there. I was tasked to design and build a fixture to test a new manufacturing process- laser welding the inner and outter body sides together. 
+In my four-month internship at Tesla, a substantial portion of my time was dedicated to a pivotal project. I was assigned the task of conceptualizing and constructing a fixture to assess a novel manufacturing technique: laser welding the inner and outer body sides together.
 
 # What I learned
 ### Deisgn
-I used Catia v6 (3dExperience) to model and design the fixture. Depsite not learned GD&T explicity in my studies and had to implement lots of GD&T principles into the design of this fixture. As identifying datums and ensuring the parts are perfectly contrained throughout the process was extremely important. I used NAAMS blocks as that was a standard practice on my team and in vehicle manufacuring therefore I had easy access to them.  
+For the design phase, I employed Catia v6 (3dExperience) to model and plan the fixture. Despite not having explicit prior exposure to Geometric Dimensioning and Tolerancing (GD&T) in my academic studies, I found myself incorporating numerous GD&T principles into the fixture's design. The identification of datums and ensuring precise constraints throughout the process proved to be critically important. Adopting NAAMS blocks, a standard practice on my team and in vehicle manufacturing, facilitated the process due to ready access.
+
 
 ### Build
-During this time our team's technicians were extremely busy therefore I was only given 1 tech to help me with the build and I had take on a big portion of the build myself (under a tight time constraint of course). I learned how to program and run a CNC Machine to fabricate many of the parts as shown in middle image below. I was able to put together 3 scrap large steel baseplates with rather than ordering a new one. After the design in CAD was finalized I waterjet cut all the holes for parts onto the baseplates for highly accuarate placements. 
+Given the intense workload of our team's technicians at that time, I was allocated only one technician to assist with the build. Consequently, I took on a substantial portion of the build myself, working under tight time constraints. A significant learning experience involved acquiring proficiency in programming and operating a CNC machine to fabricate various components, as depicted in the middle image below. To optimize resources, I creatively assembled the fixture using three discarded large steel baseplates instead of procuring new ones. Following the CAD design finalization, I executed waterjet cutting on the baseplates, ensuring highly accurate placements for the fixture components.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,10 +26,11 @@ During this time our team's technicians were extremely busy therefore I was only
 </div>
 
 ### Certification
-After the build was complete, I worked with dimensional engineers to certify the fixture. We used a CMM to measure all 55 datums ensuring a tolerance of 0.15mm. This process involved lots of shimming and tweaking of the fixture. I learned that its very important to keep this in mind throughout the design as it is extremely difficult to meet this tolerances and anyway to help make the certification process simpler helps substatially. 
+Following the completion of the build, my involvement extended to collaborating with dimensional engineers for the certification of the fixture. Utilizing a Coordinate Measuring Machine (CMM), we meticulously measured all 55 datums, adhering to a stringent tolerance of 0.15mm. This phase required extensive shimming and fine-tuning of the fixture. It underscored the critical importance of considering these precision requirements from the outset of the design process. I gained firsthand insight into the complexity of meeting such tight tolerances and realized that any design considerations aimed at simplifying the certification process significantly contribute to its success.
 
 ### Shipping
-This fixture was being sent across the world to run the test. I learned that logistics of shipping should be planned as early as possible. As on the last few days there was lots of scrambling to meet the shipping requirements, truck scheduling, shipping method. In the end it all worked out even after a tech tipped the forklift while carrying the finished fixture.
+The fixture was set to be sent worldwide for testing, and I realized the critical need for early logistics planning. In the final days, there was a rush to meet shipping requirements, schedule trucks, and decide on the shipping method. Despite some last-minute hurdles, everything fell into place. An incident occurred where a technician accidentally tipped the forklift while moving the fixture, but despite this, the overall outcome was successful, highlighting the importance of proactive planning and adaptability in handling unforeseen challenges during shipping.
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/forklift.jpeg" loading="lazy" alt="Project">
