@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently one of thirty students specializing in Mechatronics under the Mechanical Engineering program at UBC. I am set to gradaute in May 2023 and looking for new exiting opportunties to kick start my career. I have garnered lots of experience through almost 2 years of work experience in different fields. 
+I am currently one of thirty students specializing in Mechatronics under the Mechanical Engineering program at UBC. I am set to gradaute in May 2024 and looking for new exiting opportunties to kick start my career. I have garnered lots of experience through almost 2 years of work experience in different fields. 
 
 My most recent internship was at Cellula Robotics, Canada's leader in automated underwater water vehicles (AUVs). At cellula I was worked as an AUV operations engineer where I got lots of experience with the inner workings of the vehicle from Mechanical and Electrical components and the software package. 
 
