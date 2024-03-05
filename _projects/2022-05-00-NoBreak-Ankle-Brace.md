@@ -6,7 +6,7 @@ image: '/images/brace.jpg'
 ---
 
 # The Challenge
-On a team of Engineering Students and Commerce Students we are starting a venture to design a novel type of ankle brace. We identified a gap that indivuals are not willing to wear ankle braces untill after an injury occurs as they are too unfortable and can affect performance. We are desigining an ankle brace that can provide the same potection as a rigid ankle brace at high injury risk moments but be completely flexible at low risk moments.
+Within a collaborative team comprising both Engineering and Commerce students, we are embarking on a venture aimed at innovating a distinctive ankle brace. Recognizing a prevalent issue where individuals are reluctant to wear ankle braces until after sustaining an injury due to discomfort and performance hindrance, our objective is to create an ankle brace that delivers comparable protection to rigid counterparts during high-risk situations while offering complete flexibility during low-risk periods.
 
 # What I learned
 More comming soon.
