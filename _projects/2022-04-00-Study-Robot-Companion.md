@@ -12,15 +12,15 @@ Many students including me have difficulties staying focused while studying. Peo
 <p><iframe src="https://player.vimeo.com/video/909578755?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 # What I learned
-I learned ALOT from this project. To start we used an MSP430 microcontroller chip. We soldered onto our own board which I had minimal experience with prior. After soldering on the chip 4 times, I got fairly good at soldering small components and was pretty familiar with the heat gun to remove parts. 
+I gained extensive knowledge through this project, starting with the utilization of an MSP430 microcontroller chip. The hands-on experience of soldering onto our custom board, despite my limited prior exposure, enabled me to develop proficiency after soldering the chip four times. I became adept at handling small components and familiar with using a heat gun for part removal.
 
-I also did all the firmware for this project. We used a stepper motor for yaw rotation and a servo motor for opening and closing the mouth. Additionally, we had the LED eyes to depict emotion and 3 limit switches for phone detection and for stopping the motor. All this control was done using the MSP430 using code composer. 
+Additionally, I took charge of the firmware development for the project. We incorporated a stepper motor for yaw rotation, a servo motor for the mouth's opening and closing, LED eyes to convey emotions, and three limit switches for phone detection and motor cessation. All these controls were orchestrated using the MSP430 and Code Composer.
 
-We also used computer vision to track the users movement and detect if they are on task. My partner led this part of the project and I assisted. 
+Incorporating computer vision for user movement tracking and task detection was another facet of our project. My partner led this segment, and I provided assistance.
 
-The mechanical design was done using OnShape CAD and we 3D printed 95% of the parts. We decided to make it look like croc as it was cute and we wanted an animal with a big mouth that could "eat a phone". This required surface modelling to make the face look like a croc.
+The mechanical design was executed through OnShape CAD, and 95% of the components were 3D printed. We opted for a crocodile-inspired design for its cuteness and the symbolic concept of "eating" a phone, necessitating surface modeling for the crocodile face.
 
-We made a huge mistake when desigining this... we had the idea of making this into a product and had product design in our heads. We only a 2-3 weeks to design and build this and we should have had the mindset of just building minimum viable product prototype just ensuring our main funcitons work. But we tried to make it as compact as possible, this led to alot of issues with wiring and on demo day we had a short that cause our board to break. (The other reason was because we didnt have any heat shrink or electrical so we may have had some open wires)
+A critical lesson emerged during the design phase. Although we initially envisioned turning the project into a product, we had a limited timeframe of 2-3 weeks for both design and construction. Instead of adopting a mindset focused on building a minimum viable product prototype, we attempted to make it as compact as possible. Unfortunately, this decision led to wiring issues, and on demo day, a short circuit occurred, causing our board to malfunction. Lack of heat shrink and electrical tools may have contributed to open wires exacerbating the situation.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -30,7 +30,9 @@ We made a huge mistake when desigining this... we had the idea of making this in
   <em> <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
 
-We ended up redesigning to make the bottom section much more open as shown below. This allowed for our wires not to get caught on eachother and was much easier to assemble but still met all the requirements we wanted. We used purchased electrical tape to cover any exposed wires this time.
+In the image to the right, you can observe the slew bearing that I meticulously designed and 3D printed. By purchasing a pack of small steel balls and 3D printing the remaining four sections, I successfully assembled my personalized slew bearing for a mere $25. This stands in stark contrast to the exorbitant cost of over $1000 for a similar-sized engineered steel bearing.
+
+Upon reflection, we decided to refine the design by significantly increasing the openness of the bottom section, as illustrated below. This modification not only prevented our wires from getting entangled but also simplified the assembly process, meeting all our specified requirements. To secure and protect the exposed wires, we opted for purchased electrical tape in this iteration.
 
 <div class="gallery-box">
   <div class="gallery">
