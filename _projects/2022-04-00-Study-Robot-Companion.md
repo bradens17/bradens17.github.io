@@ -15,10 +15,10 @@ Many students including me have difficulties staying focused while studying. Peo
 I gained extensive knowledge through this project, starting with the utilization of an MSP430 microcontroller chip. The hands-on experience of soldering onto our custom board, despite my limited prior exposure, enabled me to develop proficiency after soldering the chip four times. I became adept at handling small components and familiar with using a heat gun for part removal.
 
 ## Firmware
-Additionally, I took charge of the firmware development for the project. We incorporated a stepper motor for yaw rotation, a servo motor for the mouth's opening and closing, LED eyes to convey emotions, and three limit switches for phone detection and motor cessation. All these controls were orchestrated using the MSP430 and Code Composer.
+Additionally, I took charge of the firmware development for the project. We incorporated a stepper motor for yaw rotation, a servo motor for the mouth's opening and closing, LED eyes to convey emotions, and three limit switches for phone detection and motor cessation. All these controls were orchestrated using the MSP430 microcontroller and Code Composer. However the LED eyes require SPI communication which I did not have the functionalality to implement using the MSP therefore used an Arduino UNO. 
 
 ## Computer Vision
-Incorporating computer vision for user movement tracking and task detection was another facet of our project. My partner led this segment, and I provided assistance.
+Incorporating computer vision for user movement tracking and task detection was another facet of our project. My partner led this segment, and I provided assistance for troubleshooting and design decisions.
 
 ## Mechanical Design
 The mechanical design was executed through OnShape CAD, and 95% of the components were 3D printed. We opted for a crocodile-inspired design for its cuteness and the symbolic concept of "eating" a phone, necessitating surface modeling for the crocodile face.
