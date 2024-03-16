@@ -2,8 +2,9 @@
 title: Tesla- Laser Welding Fixture
 date: 2023-01-01 08:01:35 +0300
 subtitle: Mechanical Design, Manufacturing, GD&T
-image: '/images/fullfixturecad.jpg'
+image: '/images/BODYSIDESFIXTURE.jpg'
 ---
+IMAGE ABOVE IS NOT MY ACTUAL FIXTURE DUE TO NDA BUT SIMILAR
 
 # The Challenge
 In my four-month internship at Tesla, a substantial portion of my time was dedicated to a pivotal project. I was assigned the task of conceptualizing and constructing a fixture to assess a novel manufacturing technique: laser welding the inner and outer body sides together.
