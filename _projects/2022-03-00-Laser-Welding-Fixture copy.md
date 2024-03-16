@@ -1,5 +1,5 @@
 ---
-title: Tesla- Laser Welding Fixture
+title: Tesla- BIW Body Sides Fixture
 date: 2023-01-01 08:01:35 +0300
 subtitle: Mechanical Design, Manufacturing, GD&T
 image: '/images/fullfixturecad.jpg'
@@ -27,8 +27,28 @@ Given the intense workload of our team's technicians at that time, I was allocat
   <em> <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
 
+### Testing
+There was a request for a quick force test, to measure the force needed to marriage the inner part to the outer part. I quickly designed a mechanism with parts we could quickly aqquire using a C-Clamp and a S-beam load cell. 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/clamp.jpeg" loading="lazy" alt="Project">
+    <img src="/images/clamping.jpeg" loading="lazy" alt="Project">
+    <img src="/images/forceread.jpeg" loading="lazy" alt="Project">
+  </div>
+  <em> <a href="https://unsplash.com/" target="_blank"></a></em>
+</div>
+
 ### Certification
 Following the completion of the build, my involvement extended to collaborating with dimensional engineers for the certification of the fixture. Utilizing a Coordinate Measuring Machine (CMM), we meticulously measured all 55 datums, adhering to a stringent tolerance of 0.15mm. This phase required extensive shimming and fine-tuning of the fixture. It underscored the critical importance of considering these precision requirements from the outset of the design process. I gained firsthand insight into the complexity of meeting such tight tolerances and realized that any design considerations aimed at simplifying the certification process significantly contribute to its success.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/forklift.jpeg" loading="lazy" alt="Project">
+    <img src="/images/ontruck.jpg" loading="lazy" alt="Project">
+  </div>
+  <em> <a href="https://unsplash.com/" target="_blank"></a></em>
+</div>
 
 ### Shipping
 The fixture was set to be sent worldwide for testing, and I realized the critical need for early logistics planning. In the final days, there was a rush to meet shipping requirements, schedule trucks, and decide on the shipping method. Despite some last-minute hurdles, everything fell into place. An incident occurred where a technician accidentally tipped the forklift while moving the fixture, but despite this, the overall outcome was successful, highlighting the importance of proactive planning and adaptability in handling unforeseen challenges during shipping.
