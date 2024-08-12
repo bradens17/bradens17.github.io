@@ -25,7 +25,7 @@ menu__settings:
 author:
   author__name: Braden Scott
   author__bio: Please reach out if you have any questions
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/profilepic.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/bradenscott17/"}
