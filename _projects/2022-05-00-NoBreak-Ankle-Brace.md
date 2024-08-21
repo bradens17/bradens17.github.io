@@ -2,7 +2,7 @@
 title: Ankle Brace Venture - NoBreak
 date: 2023-05-01 08:01:35 +0300
 subtitle: Entrepreneurship, Management, Product Design, Material Analysis
-image: '/images/brace.jpg'
+image: '/images/nobreak.jpg'
 ---
 
 # The Challenge
