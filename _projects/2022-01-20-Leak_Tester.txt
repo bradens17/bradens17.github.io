@@ -1,8 +1,8 @@
 ---
-title: Leak Tester
-date: 2022-02-08 08:01:35 +0300
-subtitle: Mechanical Design, Production
-image: '/images/project-3.jpg'
+# title: Leak Tester
+# date: 2022-02-08 08:01:35 +0300
+# subtitle: Mechanical Design, Production
+# image: '/images/project-3.jpg'
 ---
 # The Challenge
 Developed a testing fixture to leak test all IFD sensors from production in pressure and vacuum. Objective of project was to improve test-time and accuracy. This design had to be implemented on a tight schedule due to supply chain and quality issues.
