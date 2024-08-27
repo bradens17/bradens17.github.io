@@ -1,8 +1,8 @@
 ---
-title: Pressure Relief Valve Sleeve
-date: 2022-02-05 08:01:35 +0300
-subtitle: Injection Moulding, Patented
-image: '/images/project-6.jpg'
+# title: Pressure Relief Valve Sleeve
+# date: 2022-02-05 08:01:35 +0300
+# subtitle: Injection Moulding, Patented
+# image: '/images/project-6.jpg'
 ---
 # The Challenge
 This project stemmed from a root cause analysis in the field on sensors at our customers- utilities. It was discovered there was a design flaw with the IFD Pressure Relief Valve. This was a difficult challenge because there were already roughly 30,000 sensors distributed throughout North America and the timeline to roll-out a solution was as soon as possible. 
