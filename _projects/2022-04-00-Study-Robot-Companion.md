@@ -41,6 +41,7 @@ Upon reflection, we decided to refine the design by significantly increasing the
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/bottomprodyV2.jpg" loading="lazy" alt="Project">
+    <img src="/images/gearbottom.jpg" loading="lazy" alt="Project">
   </div>
   <em> <a href="https://unsplash.com/" target="_blank"></a></em>
 </div>
