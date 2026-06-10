@@ -5,7 +5,7 @@ subtitle: Arduino
 image: '/images/claw.jpg'
 ---
 
-This was one of earliest projects to design, construct and program an autonmous Claw Retrieval System that can pick up various designated objects at specified locations. I worked on the arduino programming and mechanical design of claw. 
+This was one of my earliest projects to design, construct and program an autonomous Claw Retrieval System that can pick up various designated objects at specified locations. I worked on the arduino programming and mechanical design of claw. 
 
 This claw design placed first in the weight section of the competion as it could carry the heaviest block of 10lbs with ease. This is due to the unique pulley system design that increases clamping force with an increase in the load.
 

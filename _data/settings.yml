@@ -17,19 +17,19 @@ menu__settings:
     - title: 'About'
       url: '/about/'
     - title: 'Resume'
-      url: "https://drive.google.com/file/d/1vKEitYUBrscwJ0q0foGEmigXUbE60ByB/view?usp=sharing"
+      url: '/resume.pdf'
 
 
 #-------------------------------
 # Author Settings
 author:
   author__name: Braden Scott
-  author__bio: Please reach out if you have any questions
+  author__bio: Mechatronics Engineer specializing in hardware design
   author__avatar: '/images/profilepic.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/bradenscott17/"}
-- {icon: "ion-ios-send", link: "mailto:bscott17@student.ubc.ca"}
+- {icon: "ion-ios-send", link: "mailto:braden_17@icloud.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -38,8 +38,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Braden Scott. Mechatronics Student at the University of British Columbia.
-  hero__description: I am in my 4th year looking for exciting co-op/internship opportunities. I have almost 2 years of professional experience and my projects are highlighted below. If you are looking for an innovative Engineer with strong problem solving and critical-thinking skills, please do not hesitate to reach out.
+  hero__title: I'm Braden Scott. Mechatronics Engineer at IFD Technologies.
+  hero__description: Graduated from UBC's Mechatronics program in 2024. Currently working as a Hardware Engineer designing custom PCB sensors, signal conditioning circuits, and high-current test infrastructure for utility grid applications. My projects below highlight experience across hardware, firmware, and mechanical design — feel free to reach out.
   hero__image: '/images/profilepic.jpg'
 
 
@@ -70,13 +70,13 @@ footer_menu__settings:
     - url: '/about/'
       title: 'About'
     - title: 'Resume'
-      url: "https://drive.google.com/file/d/12IfPfQVyenrv9-WihfkXl3IC6m6nlvdJ/view?usp=sharing"
+      url: '/resume.pdf'
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: bscott17@student.ubc.ca # Add your form_id
+  email: braden_17@icloud.com # Add your form_id
   description:  # Add a description of your form
 
 # NOTE
@@ -85,7 +85,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------

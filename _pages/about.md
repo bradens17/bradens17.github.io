@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am currently one of thirty students specializing in Mechatronics under the Mechanical Engineering program at UBC. I am set to gradaute in May 2024 and looking for new exiting opportunties to kick start my career. I have garnered lots of experience through almost 2 years of work experience in different fields. 
+I am a Mechatronics Engineer graduated from UBC in 2024, currently working as a Hardware Engineer at IFD Technologies. My work spans PCB design, analog and RF electronics, signal conditioning circuits, and high-current test infrastructure for utility grid monitoring applications. Before transitioning into a hardware role, I worked as a Mechanical Engineer at IFD designing components for oil-filled power transformers and leading on-site certification inspections at customer facilities.
 
-My most recent internship was at Cellula Robotics, Canada's leader in automated underwater water vehicles (AUVs). At cellula I was worked as an AUV operations engineer where I got lots of experience with the inner workings of the vehicle from Mechanical and Electrical components and the software package. 
+My most recent internship before graduating was at Cellula Robotics, Canada's leader in autonomous underwater vehicles (AUVs). At Cellula I worked as an AUV operations engineer, gaining hands-on experience with the mechanical, electrical, and software systems that make these vehicles operate in demanding subsea environments.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -16,7 +16,7 @@ My most recent internship was at Cellula Robotics, Canada's leader in automated 
   <em>Cellula</em>
 </div>
 
-Additionally, I worked at Tesla as a Manufacturing Engineering Intern on the pilot BIW team. This is a specialized team that works on the beta builds and early production of new vehicles and R&D of new manufacturing methods. I was lucky to be part of this fast paced team where I was able to absorb loads of knowledge. I got experience design fixtures, robot programming, CNC machining, vehicle builds and various manufacturing methods. 
+I also worked at Tesla as a Manufacturing Engineering Intern on the pilot BIW team — a specialized group focused on beta builds and early production of new vehicles. I gained experience designing fixtures to NAAMS standards, programming robot cells, CNC machining, and supporting vehicle builds across various manufacturing methods.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -26,7 +26,7 @@ Additionally, I worked at Tesla as a Manufacturing Engineering Intern on the pil
   <em>Tesla</em>
 </div>
 
-In my free time I love to stay active by hiking or playing sports. Growing up I played every sport I could. I even managed to represent team Canada twice playing baseball at the Intermidiate & Senior League World Series. Today, golf is one my favourite pastimes. 
+In my free time I love to stay active by hiking or playing sports. Growing up I played every sport I could — I even represented Team Canada twice playing baseball at the Intermediate and Senior League World Series. Today, golf is one of my favourite pastimes.
 
 
 <div class="gallery-box">
@@ -38,7 +38,7 @@ In my free time I love to stay active by hiking or playing sports. Growing up I 
   <em>Sports</em>
 </div>
 
-I also love to travel. I enjoy learning about different cultures and meeting people from all around the world. I have been to Korea, Australlia, New Zealand, Greece, Mexico and Cuba. 
+I also love to travel. I enjoy learning about different cultures and meeting people from all around the world. I have been to Korea, Australia, New Zealand, Greece, Mexico, and Cuba.
 
 <div class="gallery-box">
   <div class="gallery">
